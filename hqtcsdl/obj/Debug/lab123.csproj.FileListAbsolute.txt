@@ -1,0 +1,11 @@
+C:\Users\DELL\Documents\hqtcsdlnc\Lab123Form\Lab123Form\bin\Debug\Lab123Form.exe.config
+C:\Users\DELL\Documents\hqtcsdlnc\Lab123Form\Lab123Form\bin\Debug\Lab123Form.exe
+C:\Users\DELL\Documents\hqtcsdlnc\Lab123Form\Lab123Form\bin\Debug\Lab123Form.pdb
+C:\Users\DELL\Documents\hqtcsdlnc\Lab123Form\Lab123Form\obj\Debug\lab123.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\hqtcsdlnc\Lab123Form\Lab123Form\obj\Debug\Lab123Form.Form1.resources
+C:\Users\DELL\Documents\hqtcsdlnc\Lab123Form\Lab123Form\obj\Debug\Lab123Form.Form2.resources
+C:\Users\DELL\Documents\hqtcsdlnc\Lab123Form\Lab123Form\obj\Debug\Lab123Form.Properties.Resources.resources
+C:\Users\DELL\Documents\hqtcsdlnc\Lab123Form\Lab123Form\obj\Debug\lab123.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\hqtcsdlnc\Lab123Form\Lab123Form\obj\Debug\lab123.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\hqtcsdlnc\Lab123Form\Lab123Form\obj\Debug\Lab123Form.exe
+C:\Users\DELL\Documents\hqtcsdlnc\Lab123Form\Lab123Form\obj\Debug\Lab123Form.pdb
